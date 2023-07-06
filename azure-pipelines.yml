@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: Default
+  name: VSPF2YG7YZ
   vmImage: ubuntu-latest
 
 steps:
